@@ -29,6 +29,8 @@
   <types>
     <members>*</members>
     <name>CustomLabels</name>
+    
+    @Changes test
   </types>
   <types>
     <members>*</members>
